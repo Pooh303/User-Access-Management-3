@@ -69,4 +69,4 @@ setfacl -s user::rwx,group::---,other::---,user:billy:r-x foo
 
 <br>
 
-**- บทถัดไป [Access Control, Firewall](https://github.com/Pooh303/User-Access-Management-3/tree/main/Access%20Control%2C%20Firewall)**
+**บทถัดไป [Access Control, Firewall](https://github.com/Pooh303/User-Access-Management-3/tree/main/Access%20Control%2C%20Firewall)**

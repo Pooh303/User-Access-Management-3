@@ -381,4 +381,4 @@ Parameters like GID_MIN and GID_MAX, defined in /etc/login.defs, can be modified
 
 <br>
 
-**- บทถัดไป [User Policy และ Password Policy](https://github.com/Pooh303/User-Access-Management-3/tree/main/User%20Policy%2C%20Password%20Policy)**
+**บทถัดไป [User Policy และ Password Policy](https://github.com/Pooh303/User-Access-Management-3/tree/main/User%20Policy%2C%20Password%20Policy)**

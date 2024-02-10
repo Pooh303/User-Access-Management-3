@@ -213,4 +213,4 @@ root@dlp:~# vi /etc/security/pwquality.conf
 
 <br>
 
-**- บทถัดไป [Authentication/IDM/SSO](https://github.com/Pooh303/User-Access-Management-3/tree/main/Authentication-IDM-SSO)**
+**บทถัดไป [Authentication/IDM/SSO](https://github.com/Pooh303/User-Access-Management-3/tree/main/Authentication-IDM-SSO)**
